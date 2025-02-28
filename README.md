@@ -1,6 +1,8 @@
-Before creating a new branch, check which branch you’re currently on by running:
+# Zoo
 
-```bash
-git branch
+This repository contains HTML files for different zoo animals.
+
+## Live Link
+[Click here to view the website](https://santiago0303afk.github.io/zoo/)
 
 
